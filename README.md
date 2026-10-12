@@ -1,4 +1,4 @@
-# ✨ Welcome to Lily's Cloud Data Garden! 🌸✨
+# ✨ Welcome to Lily's Cloud Data Sanctuary! 🌸✨
 
 Hello, lovelies! I'm Lily 💖 I'm a passionate Data Engineer who loves turning messy, chaotic data streams into beautiful, reliable, and perfectly organized data spaces. 💮
 
