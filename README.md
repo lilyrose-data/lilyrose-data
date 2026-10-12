@@ -26,7 +26,7 @@ I love exploring and building across all three major cloud networks and modern d
 | **👑 Amazon Web Services** | Redshift, AWS Glue, S3, Lambda, Athena | ☁️ 💫 |
 | **🌱 Google Cloud (GCP)** | BigQuery, Cloud Composer, Cloud Functions, Cloud Run | 💮 ⚡ |
 | **🐍 Code & Structuring** | Python, SQL, dbt (Data Build Tool) | 🎀 💻 |
-| **📊 Visual Analytics (BI)** | Power BI, Tableau, Looker / Data Studio | 🔮 🎨 |
+| **📊 Visual Analytics (BI)** | Power BI, Tableau, Looker / Data Studio, Python (for insights & analytics) | 🔮 🎨 |
 
 ---
 
