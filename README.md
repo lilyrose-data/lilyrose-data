@@ -1,6 +1,15 @@
-# ✨ Welcome to Lily's Cloud Data Garden! 🌸✨
+# <p align="center"><img src="https://vercel.app✨%20Welcome%20to%20Lily's%20Cloud%20Data%20Garden!%20✨&fontSize=24&animation=twinkling&fontColor=ffffff" alt="Pink Banner" /></p>
 
-Hello, lovelies! I'm Lily 💖 I'm a passionate Data Engineer who loves turning messy, chaotic data streams into beautiful, reliable, and perfectly organized data spaces. 💮
+<p align="center">
+  <img src="https://shields.io" />
+  <img src="https://shields.io" />
+</p>
+
+---
+
+### <img src="https://githubusercontent.com" alt="Waving Hand" width="25" /> Hello, lovelies! 
+
+I'm Lily 💖 I'm a passionate Data Engineer who loves turning messy, chaotic data streams into beautiful, reliable, and perfectly organized data spaces. 💮
 
 I believe data infrastructure doesn't have to be cold and dry—we can make technical architecture brilliant, clean, and optimized! 🧚‍♀️✨
 
@@ -36,7 +45,7 @@ I am always excited to collaborate on groundbreaking data projects, explore new 
 
 | Platform | Where to Find Me |
 | :--- | :--- |
-| **💼 Professional Networking** | [Come say hello on LinkedIn!](https://www.linkedin.com/in/lily-d-879252198/) |
+| **💼 Professional Networking** | [Come say hello on LinkedIn!](https://linkedin.com](https://www.linkedin.com/in/lily-d-879252198/) |
 | **💻 GitHub Projects** | Explore my repositories right here on this page! |
 
 <p align="center">
