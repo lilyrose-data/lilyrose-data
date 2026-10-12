@@ -1,6 +1,6 @@
 # ✨ Welcome to Lily's Cloud Data Garden! 🌸✨
 
-Hello, lovelies! I'm **Lily** 💖 I'm a passionate **Data Engineer** who loves turning messy, chaotic data streams into beautiful, reliable, and perfectly organized data spaces. 💮
+Hello, lovelies! I'm Lily 💖 I'm a passionate Data Engineer who loves turning messy, chaotic data streams into beautiful, reliable, and perfectly organized data spaces. 💮
 
 I believe data infrastructure doesn't have to be cold and dry—we can make technical architecture brilliant, clean, and optimized! 🧚‍♀️✨
 
@@ -22,11 +22,11 @@ I love exploring and building across all three major cloud networks and modern d
 
 | Ecosystem | Core Tools & Platforms | Vibe |
 | :--- | :--- | :--- |
-| **☁️ Microsoft Azure** | **Azure Data Factory (ADF)**, Databricks (PySpark), Synapse Analytics | 🌸 ✨ |
-| **👑 Amazon Web Services** | **Redshift**, AWS Glue, S3, Lambda, Athena | ☁️ 💫 |
+| **☁️ Microsoft Azure** | Azure Data Factory (ADF), Databricks (PySpark), Azure Data Studio, Synapse Analytics | 🌸 ✨ |
+| **👑 Amazon Web Services** | Redshift, AWS Glue, S3, Lambda, Athena | ☁️ 💫 |
 | **🌱 Google Cloud (GCP)** | BigQuery, Cloud Composer, Cloud Functions, Cloud Run | 💮 ⚡ |
-| **🐍 Code & Structuring** | **Python**, SQL, dbt (Data Build Tool) | 🎀 💻 |
-| **📊 Visual Analytics (BI)** | **Power BI**, **Tableau**, **Looker / Looker Studio** | 🔮 🎨 |
+| **🐍 Code & Structuring** | Python, SQL, dbt (Data Build Tool) | 🎀 💻 |
+| **📊 Visual Analytics (BI)** | Power BI, Tableau, Looker / Data Studio** | 🔮 🎨 |
 
 ---
 
